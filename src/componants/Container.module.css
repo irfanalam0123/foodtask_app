@@ -1,0 +1,7 @@
+.content{
+  width: 50%;
+  border: 1px solid black;
+  min-width: 400px;
+  padding: 2rem;
+  margin-left: 3rem;
+}
